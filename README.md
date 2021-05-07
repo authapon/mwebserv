@@ -1,5 +1,5 @@
 # mwebserv (the tiny web framework)
-*This framework is made for personal used, you may take it by your own risk*
+*This framework is made for personal use, you may take it at your own risk*
 
 ## Example
 
